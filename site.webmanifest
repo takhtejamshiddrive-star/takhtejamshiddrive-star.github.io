@@ -1,0 +1,13 @@
+{
+  "name": "آموزشگاه رانندگی تخت جمشید",
+  "short_name": "تخت جمشید",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071b3b",
+  "theme_color": "#071b3b",
+  "icons": [
+    {"src": "app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
